@@ -1,0 +1,24 @@
+﻿/* 
+  Site.css - Estilos globales mínimos
+  Solo reglas básicas, los estilos principales están en Styles/
+*/
+
+.body-content {
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* No limitar ancho de inputs - los formularios tienen sus propios estilos */
+input.form-control,
+select.form-control,
+textarea.form-control {
+    max-width: 100% !important;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .body-content {
+        padding: 0;
+    }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamir\\OneDrive\\Documents\\IX Semestre\\Ingenier\u00EDa de software II_2\\Software\\Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0401905E-BF04-48AA-A949-D0EC73FBA976}|Software.Tests\\Software.Tests.csproj|c:\\users\\hamir\\onedrive\\documents\\ix semestre\\ingenier\u00EDa de software ii_2\\software\\software\\software.tests\\testasientocontables_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0401905E-BF04-48AA-A949-D0EC73FBA976}|Software.Tests\\Software.Tests.csproj|solutionrelative:software.tests\\testasientocontables_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0401905E-BF04-48AA-A949-D0EC73FBA976}|Software.Tests\\Software.Tests.csproj|C:\\Users\\hamir\\OneDrive\\Documents\\IX Semestre\\Ingenier\u00EDa de software II_2\\Software\\Software\\software.tests\\testlogin_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0401905E-BF04-48AA-A949-D0EC73FBA976}|Software.Tests\\Software.Tests.csproj|solutionrelative:software.tests\\testlogin_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestLogin_1.cs",
+              "DocumentMoniker": "C:\\Users\\hamir\\OneDrive\\Documents\\IX Semestre\\Ingenier\u00EDa de software II_2\\Software\\Software\\Software.Tests\\TestLogin_1.cs",
+              "RelativeDocumentMoniker": "Software.Tests\\TestLogin_1.cs",
+              "ToolTip": "C:\\Users\\hamir\\OneDrive\\Documents\\IX Semestre\\Ingenier\u00EDa de software II_2\\Software\\Software\\Software.Tests\\TestLogin_1.cs",
+              "RelativeToolTip": "Software.Tests\\TestLogin_1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:05:27.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAsientoContables_2.cs",
+              "DocumentMoniker": "C:\\Users\\hamir\\OneDrive\\Documents\\IX Semestre\\Ingenier\u00EDa de software II_2\\Software\\Software\\Software.Tests\\TestAsientoContables_2.cs",
+              "RelativeDocumentMoniker": "Software.Tests\\TestAsientoContables_2.cs",
+              "ToolTip": "C:\\Users\\hamir\\OneDrive\\Documents\\IX Semestre\\Ingenier\u00EDa de software II_2\\Software\\Software\\Software.Tests\\TestAsientoContables_2.cs",
+              "RelativeToolTip": "Software.Tests\\TestAsientoContables_2.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:26:56.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

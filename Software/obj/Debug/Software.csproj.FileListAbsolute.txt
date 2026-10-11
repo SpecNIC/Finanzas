@@ -1,0 +1,444 @@
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Software.dll.config
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Software.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Software.pdb
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\csc.exe
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\csc.exe.config
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\csc.rsp
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\csi.exe
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\csi.exe.config
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\csi.rsp
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.AppContext.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Console.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.IO.Compression.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Net.Http.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.ValueTuple.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\vbc.exe
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\vbc.exe.config
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\vbc.rsp
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\VBCSCompiler.exe
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Antlr3.Runtime.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Newtonsoft.Json.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\System.Web.Optimization.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\WebGrease.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\System.Web.Optimization.xml
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Newtonsoft.Json.xml
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Antlr3.Runtime.pdb
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\obj\Debug\Software.csproj.Up2Date
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\obj\Debug\Software.dll
+C:\Users\GabrielAndreQuintani\source\repos\Software\Software\obj\Debug\Software.pdb
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Software.dll.config
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Software.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Software.pdb
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\csc.exe
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\csc.exe.config
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\csc.rsp
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\csi.exe
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\csi.exe.config
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\csi.rsp
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.AppContext.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Console.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.IO.Compression.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Net.Http.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.ValueTuple.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\vbc.exe
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\vbc.exe.config
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\vbc.rsp
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\VBCSCompiler.exe
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Antlr3.Runtime.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Newtonsoft.Json.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\System.Web.Optimization.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\WebGrease.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\System.Web.Optimization.xml
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Newtonsoft.Json.xml
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Antlr3.Runtime.pdb
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\obj\Debug\Software.csproj.Up2Date
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\obj\Debug\Software.dll
+C:\Users\GabrielAndreQuintani\Documents\Software\Software\Software\obj\Debug\Software.pdb
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Software.dll.config
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Software.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Software.pdb
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\csc.exe
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\csc.exe.config
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\csc.rsp
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\csi.exe
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\csi.exe.config
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\csi.rsp
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.AppContext.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Console.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.IO.Compression.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Net.Http.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.ValueTuple.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\vbc.exe
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\vbc.exe.config
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\vbc.rsp
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\VBCSCompiler.exe
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Antlr3.Runtime.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Newtonsoft.Json.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\System.Web.Optimization.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\WebGrease.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\System.Web.Optimization.xml
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Newtonsoft.Json.xml
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Antlr3.Runtime.pdb
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\lener\OneDrive\Escritorio\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\lener\OneDrive\Escritorio\Software\Software\obj\Debug\Software.csproj.Up2Date
+C:\Users\lener\OneDrive\Escritorio\Software\Software\obj\Debug\Software.dll
+C:\Users\lener\OneDrive\Escritorio\Software\Software\obj\Debug\Software.pdb
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Software.dll.config
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Software.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Software.pdb
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\csc.exe
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\csc.exe.config
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\csc.rsp
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\csi.exe
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\csi.exe.config
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\csi.rsp
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.AppContext.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Console.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Net.Http.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\vbc.exe
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\vbc.exe.config
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\vbc.rsp
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Antlr3.Runtime.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Newtonsoft.Json.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\System.Web.Optimization.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\WebGrease.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\System.Web.Optimization.xml
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Newtonsoft.Json.xml
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Antlr3.Runtime.pdb
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\obj\Debug\Software.csproj.Up2Date
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\obj\Debug\Software.dll
+C:\Users\hamir\OneDrive\Documents\Software\Software\Software\obj\Debug\Software.pdb
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Software.dll.config
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Software.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Software.pdb
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csc.exe
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csc.exe.config
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csc.rsp
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csi.exe
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csi.exe.config
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csi.rsp
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.AppContext.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Console.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Net.Http.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\vbc.exe
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\vbc.exe.config
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\vbc.rsp
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Antlr3.Runtime.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Newtonsoft.Json.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\System.Web.Optimization.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\WebGrease.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\System.Web.Optimization.xml
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Newtonsoft.Json.xml
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Antlr3.Runtime.pdb
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.csproj.Up2Date
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.dll
+C:\Users\hamir\OneDrive\Documents\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.pdb
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.pdb
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Software.dll.config
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Software.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Software.pdb
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csc.exe
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csc.exe.config
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csc.rsp
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csi.exe
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csi.exe.config
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\csi.rsp
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.AppContext.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Console.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Net.Http.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\vbc.exe
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\vbc.exe.config
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\vbc.rsp
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Antlr3.Runtime.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Newtonsoft.Json.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\System.Web.Optimization.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\WebGrease.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\System.Web.Optimization.xml
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Newtonsoft.Json.xml
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Antlr3.Runtime.pdb
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hamir\OneDrive\Documents\IX Semestre\Ingeniería de software II_2\Software\Software\Software\obj\Debug\Software.csproj.Up2Date

@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|c:\\users\\lener\\onedrive\\escritorio\\software\\software\\crearasiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\crearasiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\menu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\menu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\styles\\contenido.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\styles\\contenido.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\styles\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\styles\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\balancegeneral.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\balancegeneral.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\estadoorigenaplicacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\estadoorigenaplicacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\estadoorigenaplicacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\estadoorigenaplicacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\balancegeneral.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\balancegeneral.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\calcularbalance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\calcularbalance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\calcularbalance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\calcularbalance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\calcularestadoorigen.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\calcularestadoorigen.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\calcularestadoorigen.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\calcularestadoorigen.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\verbalance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\verbalance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\verbalance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\verbalance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\verasiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\verasiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\verasiento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\verasiento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GabrielAndreQuintani\\source\\repos\\Software\\Software\\CrearAsiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\registraractivo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\registraractivo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\registraractivo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\registraractivo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\libromayor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\libromayor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\crearasiento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\crearasiento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\libromayor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\libromayor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\styles\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\styles\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\software\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93D0E23F-4909-4D3D-818A-9CCA42851F1A}|Software\\Software.csproj|solutionrelative:software\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerBalance.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerBalance.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\VerBalance.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerBalance.aspx.cs",
+              "RelativeToolTip": "Software\\VerBalance.aspx.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:06:06.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VerBalance.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerBalance.aspx",
+              "RelativeDocumentMoniker": "Software\\VerBalance.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerBalance.aspx",
+              "RelativeToolTip": "Software\\VerBalance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-13T01:05:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerAsiento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerAsiento.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\VerAsiento.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerAsiento.aspx.cs",
+              "RelativeToolTip": "Software\\VerAsiento.aspx.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:13:54.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Web.config",
+              "RelativeDocumentMoniker": "Software\\Web.config",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Web.config",
+              "RelativeToolTip": "Software\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-23T23:45:05.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalcularEstadoOrigen.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularEstadoOrigen.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\CalcularEstadoOrigen.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularEstadoOrigen.aspx.cs",
+              "RelativeToolTip": "Software\\CalcularEstadoOrigen.aspx.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAQwGUBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:58:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Menu.aspx",
+              "RelativeDocumentMoniker": "Software\\Menu.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Menu.aspx",
+              "RelativeToolTip": "Software\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T00:17:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Login.aspx",
+              "RelativeDocumentMoniker": "Software\\Login.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Login.aspx",
+              "RelativeToolTip": "Software\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-23T23:29:27.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearAsiento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CrearAsiento.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\CrearAsiento.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CrearAsiento.aspx.cs",
+              "RelativeToolTip": "Software\\CrearAsiento.aspx.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAYwAgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:39:22.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contenido.css",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Contenido.css",
+              "RelativeDocumentMoniker": "Software\\Styles\\Contenido.css",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Contenido.css",
+              "RelativeToolTip": "Software\\Styles\\Contenido.css",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAqwKwBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-24T13:05:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstadoOrigenAplicacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\EstadoOrigenAplicacion.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\EstadoOrigenAplicacion.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\EstadoOrigenAplicacion.aspx.cs",
+              "RelativeToolTip": "Software\\EstadoOrigenAplicacion.aspx.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAswNUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:46:57.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BalanceGeneral.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\BalanceGeneral.aspx",
+              "RelativeDocumentMoniker": "Software\\BalanceGeneral.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\BalanceGeneral.aspx",
+              "RelativeToolTip": "Software\\BalanceGeneral.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T13:02:26.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Menu.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\Menu.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Menu.aspx.cs",
+              "RelativeToolTip": "Software\\Menu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:25:13.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Menu.css",
+              "RelativeDocumentMoniker": "Software\\Styles\\Menu.css",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Menu.css",
+              "RelativeToolTip": "Software\\Styles\\Menu.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-15T05:26:57.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CalcularEstadoOrigen.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularEstadoOrigen.aspx",
+              "RelativeDocumentMoniker": "Software\\CalcularEstadoOrigen.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularEstadoOrigen.aspx",
+              "RelativeToolTip": "Software\\CalcularEstadoOrigen.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-12T22:51:56.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalcularBalance.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularBalance.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\CalcularBalance.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularBalance.aspx.cs",
+              "RelativeToolTip": "Software\\CalcularBalance.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:16:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalcularBalance.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularBalance.aspx",
+              "RelativeDocumentMoniker": "Software\\CalcularBalance.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CalcularBalance.aspx",
+              "RelativeToolTip": "Software\\CalcularBalance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T13:13:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BalanceGeneral.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\BalanceGeneral.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\BalanceGeneral.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\BalanceGeneral.aspx.cs",
+              "RelativeToolTip": "Software\\BalanceGeneral.aspx.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAiwOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:03:10.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstadoOrigenAplicacion.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\EstadoOrigenAplicacion.aspx",
+              "RelativeDocumentMoniker": "Software\\EstadoOrigenAplicacion.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\EstadoOrigenAplicacion.aspx",
+              "RelativeToolTip": "Software\\EstadoOrigenAplicacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-12T22:46:35.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CrearAsiento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\GabrielAndreQuintani\\source\\repos\\Software\\Software\\CrearAsiento.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GabrielAndreQuintani\\source\\repos\\Software\\Software\\CrearAsiento.aspx.cs",
+              "ToolTip": "C:\\Users\\GabrielAndreQuintani\\source\\repos\\Software\\Software\\CrearAsiento.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GabrielAndreQuintani\\source\\repos\\Software\\Software\\CrearAsiento.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:29:24.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrarActivo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\RegistrarActivo.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\RegistrarActivo.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\RegistrarActivo.aspx.cs",
+              "RelativeToolTip": "Software\\RegistrarActivo.aspx.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:54:56.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistrarActivo.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\RegistrarActivo.aspx",
+              "RelativeDocumentMoniker": "Software\\RegistrarActivo.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\RegistrarActivo.aspx",
+              "RelativeToolTip": "Software\\RegistrarActivo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T15:45:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VerAsiento.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerAsiento.aspx",
+              "RelativeDocumentMoniker": "Software\\VerAsiento.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\VerAsiento.aspx",
+              "RelativeToolTip": "Software\\VerAsiento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-11T03:12:50.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibroMayor.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\LibroMayor.aspx",
+              "RelativeDocumentMoniker": "Software\\LibroMayor.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\LibroMayor.aspx",
+              "RelativeToolTip": "Software\\LibroMayor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T15:14:30.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CrearAsiento.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CrearAsiento.aspx",
+              "RelativeDocumentMoniker": "Software\\CrearAsiento.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\CrearAsiento.aspx",
+              "RelativeToolTip": "Software\\CrearAsiento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T15:38:48.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LibroMayor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\LibroMayor.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\LibroMayor.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\LibroMayor.aspx.cs",
+              "RelativeToolTip": "Software\\LibroMayor.aspx.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:16:02.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Registro.aspx.cs",
+              "RelativeToolTip": "Software\\Registro.aspx.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:56:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Registro.aspx",
+              "RelativeDocumentMoniker": "Software\\Registro.aspx",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Registro.aspx",
+              "RelativeToolTip": "Software\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T00:40:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Registro.css",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Registro.css",
+              "RelativeDocumentMoniker": "Software\\Styles\\Registro.css",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Registro.css",
+              "RelativeToolTip": "Software\\Styles\\Registro.css",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-24T12:55:28.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Software\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Login.aspx.cs",
+              "RelativeToolTip": "Software\\Login.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T23:37:53.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Login.css",
+              "RelativeDocumentMoniker": "Software\\Styles\\Login.css",
+              "ToolTip": "C:\\Users\\lener\\OneDrive\\Escritorio\\Software\\Software\\Styles\\Login.css",
+              "RelativeToolTip": "Software\\Styles\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-23T23:27:37.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
